@@ -5,7 +5,7 @@ import Footer from './shared/Footer'
 
 export const Browse = () => {
 
-  const randomjobs= [1,2,3]
+  const randomjobs= [1,2,3,,4,5,6,,90]
   return (
     <div><Navbar/>
     <div className='max-w-7xl mx-auto my-10'>
